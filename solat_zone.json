@@ -1,0 +1,318 @@
+[
+{
+    "code": "JHR",
+    "name": "JOHOR",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Pulau Aur dan Pemanggil"
+        },
+        {
+            "code": "02",
+            "name": "Kota Tinggi, Mersing, Johor Bahru"
+        },
+        {
+            "code": "03",
+            "name": "Kluang dan Pontian"
+        },
+        {
+            "code": "04",
+            "name": "Batu Pahat, Muar, Segamat, Gemas"
+        }
+    ]
+},
+{
+    "code": "KDH",
+    "name": "KEDAH",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Kota Setar, Kubang Pasu, Pokok Sena"
+        },
+        {
+            "code": "02",
+            "name": "Pendang, Kuala Muda, Yan"
+        },
+        {
+            "code": "03",
+            "name": "Padang Terap, Sik"
+        },
+        {
+            "code": "04",
+            "name": "Baling"
+        },
+        {
+            "code": "05",
+            "name": "Kulim, Bandar Bahru"
+        },
+        {
+            "code": "06",
+            "name": "Langkawi"
+        },
+        {
+            "code": "07",
+            "name": "Gunung Jerai"
+        }
+    ]
+},
+{
+    "code": "KTN",
+    "name": "KELANTAN",
+    "zone": [
+        {
+            "code": "01",
+            "name": "K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku"
+        },
+        {
+            "code": "03",
+            "name": "Jeli, Gua Musang (Mukim Galas, Bertam)"
+        }
+    ]
+},
+{
+    "code": "SGR",
+    "name": "SELANGOR & KL",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Gombak,H.Selangor,Rawang, H.Langat,Sepang,Petaling,  S.Alam"
+        },
+        {
+            "code": "02",
+            "name": "Sabak Bernam, Kuala Selangor,  Klang, Kuala Langat"
+        },
+        {
+            "code": "03",
+            "name": "Kuala Lumpur"
+        },
+        {
+            "code": "04",
+            "name": "Putrajaya"
+        }
+    ]
+},
+{
+    "code": "WLY",
+    "name": "W.P LABUAN",
+    "zone": [
+        {
+            "code": "02",
+            "name": "W.P LABUAN"
+        }
+    ]
+},
+{
+    "code": "MLK",
+    "name": "MELAKA",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Bandar Melaka, Alor Gajah, Jasin, Masjid Tanah, Merlimau, Nyalas"
+        }
+    ]
+},
+{
+    "code": "NGS",
+    "name": "NEGERI SEMBILAN",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Jempol, Tampin"
+        },
+        {
+            "code": "02",
+            "name": "Port Dickson, Seremban, Kuala Pilah, Jelebu, Rembau"
+        }
+    ]
+},
+{
+    "code": "PHG",
+    "name": "PAHANG",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Pulau Tioman"
+        },
+        {
+            "code": "02",
+            "name": "Kuantan, Pekan, Rompin, Muadzam Shah"
+        },
+        {
+            "code": "03",
+            "name": "Maran, Chenor, Temerloh, Bera, Jerantut"
+        },
+        {
+            "code": "04",
+            "name": "Bentong, Raub, Kuala Lipis"
+        },
+        {
+            "code": "05",
+            "name": "Genting Sempah, Janda Baik, Bukit Tinggi"
+        },
+        {
+            "code": "06",
+            "name": "Bukit Fraser, Genting Higlands, Cameron Higlands"
+        }
+    ]
+},
+{
+    "code": "PRK",
+    "name": "PERAK",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Tapah,Slim River dan Tanjung Malim"
+        },
+        {
+            "code": "02",
+            "name": "Ipoh, Batu Gajah, Kampar, Sg. Siput dan Kuala Kangsar"
+        },
+        {
+            "code": "03",
+            "name": "Pengkalan Hulu, Grik dan Lenggong"
+        },
+        {
+            "code": "04",
+            "name": "Temengor dan Belum"
+        },
+        {
+            "code": "05",
+            "name": "Teluk Intan, Bagan Datoh, Kg.Gajah,Sri Iskandar, Beruas,Parit,Lumut,Setiawan dan Pulau Pangkor"
+        },
+        {
+            "code": "06",
+            "name": "Selama, Taiping, Bagan Serai dan Parit Buntar"
+        },
+        {
+            "code": "07",
+            "name": "Bukit Larut"
+        }
+    ]
+},
+{
+    "code": "PLS",
+    "name": "PERLIS",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Kangar, Padang Besar, Arau"
+        }
+    ]
+},
+{
+    "code": "PNG",
+    "name": "PULAU PINANG",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Seluruh Negeri Pulau Pinang"
+        }
+    ]
+},
+{
+    "code": "SBH",
+    "name": "SABAH",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Zon 1 - Sandakan, Bdr. Bkt. Garam, Semawang, Temanggong, Tambisan"
+        },
+        {
+            "code": "02",
+            "name": "Zon 2 - Pinangah, Terusan, Beluran, Kuamut, Telupit"
+        },
+        {
+            "code": "03",
+            "name": "Zon 3 - Lahad Datu, Kunak, Silabukan, Tungku, Sahabat, Semporna"
+        },
+        {
+            "code": "04",
+            "name": "Zon 4 - Tawau, Balong, Merotai, Kalabakan"
+        },
+        {
+            "code": "05",
+            "name": "Zon 5 - Kudat, Kota Marudu, Pitas, Pulau Banggi"
+        },
+        {
+            "code": "06",
+            "name": "Zon 6 - Gunung Kinabalu"
+        },
+        {
+            "code": "07",
+            "name": "Zon 7 - Papar, Ranau, Kota Belud, Tuaran, Penampang, Kota Kinabalu"
+        },
+        {
+            "code": "08",
+            "name": "Zon 8 - Pensiangan, Keningau, Tambunan, Nabawan"
+        },
+        {
+            "code": "09",
+            "name": "Zon 9 - Sipitang, Membakut, Beaufort, Kuala Penyu, Weston, Tenom, Long Pa Sia"
+        }
+    ]
+},
+{
+    "code": "SWK",
+    "name": "SARAWAK",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Zon 1 - Limbang, Sundar, Terusan, Lawas"
+        },
+        {
+            "code": "02",
+            "name": "Zon 2 - Niah, Belaga, Sibuti, Miri, Bekenu, Marudi"
+        },
+        {
+            "code": "03",
+            "name": "Zon 3 - Song, Belingan, Sebauh, Bintulu, Tatau, Kapit"
+        },
+        {
+            "code": "04",
+            "name": "Zon 4 - Igan, Kanowit, Sibu, Dalat, Oya"
+        },
+        {
+            "code": "05",
+            "name": "Zon 5 - Belawai, Matu, Daro, Sarikei, Julau, Bitangor, Rajang"
+        },
+        {
+            "code": "06",
+            "name": "Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa, Saratok, Roban, Debak"
+        },
+        {
+            "code": "07",
+            "name": "Zon 7 - Samarahan, Simunjan, Serian, Sebuyau, Meludam"
+        },
+        {
+            "code": "08",
+            "name": "Zon 8 - Kuching, Bau, Lundu,Sematan"
+        },
+        {
+            "code": "09",
+            "name": "Zon 9 - Zon Khas"
+        }
+    ]
+},
+{
+    "code": "TRG",
+    "name": "TERENGGANU",
+    "zone": [
+        {
+            "code": "01",
+            "name": "Kuala Terengganu, Marang"
+        },
+        {
+            "code": "02",
+            "name": "Besut, Setiu"
+        },
+        {
+            "code": "03",
+            "name": "Hulu Terengganu"
+        },
+        {
+            "code": "04",
+            "name": "Kemaman Dungun"
+        }
+    ]
+}
+]

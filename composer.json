@@ -1,0 +1,18 @@
+{
+    "name": "natsu90/esolat",
+    "description": "E-Solat Library Wrapper",
+    "authors": [
+        {
+            "name": "Sulaiman",
+            "email": "mohd.sulaiman@sudirman.info"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/esolat.php"
+        ]
+    }
+}
