@@ -1,7 +1,7 @@
 # E-Solat JAKIM API Wrapper
 
 ##Demo
-[https://esolat-api.herokuapp.com/](https://esolat-api.herokuapp.com/)
+[http://esolatapi-namialus.rhcloud.com/](http://esolatapi-namialus.rhcloud.com/)
 
 ## Install
 
