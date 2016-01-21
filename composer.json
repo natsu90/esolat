@@ -1,18 +1,30 @@
 {
-    "name": "natsu90/esolat",
-    "description": "E-Solat Library Wrapper",
+    "name": "jakim/esolat",
+    "type": "library",
+    "description": "E-Solat JAKIM Library Wrapper",
     "authors": [
         {
-            "name": "Sulaiman",
-            "email": "mohd.sulaiman@sudirman.info"
+            "name": "Mohd Sulaiman",
+            "email": "sulaiman@derp.com.my",
+            "homepage": "http://namial.us/"
         }
     ],
+    "license": "MIT",
     "require": {
-        "fabpot/goutte":"~2.0"
+        "fabpot/goutte": "~2.0",
+        "jwage/purl": "0.0.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
     },
     "autoload": {
-        "classmap": [
-            "src/esolat.php"
-        ]
+        "psr-4": {
+            "Jakim\\Solat\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jakim\\Solat\\Tests\\": "tests/"
+        }
     }
 }
