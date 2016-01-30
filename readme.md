@@ -1,27 +1,34 @@
-# E-Solat JAKIM Library Wrapper
+## E-Solat JAKIM Library Wrapper
 
 ## Install
 
-Run `composer require jakim/esolat`
+```sh
+composer require jakim/esolat
+```
 
 ## Usage
 
-    $zones = Zon::getAllZone();
+```php
+use Jakim\Solat\Zon;
+use Jakim\Solat\Waktu;
 
-    $zon = new Jakim\Solat\Zon('sgr01');
-    $waktu = new Jakim\Solat\Waktu($zon);
+$zones = Zon::getAllZone();
 
-    // get today waktu
-    $waktu->getToday();
+$zon = new Zon('sgr01');
+$waktu = new Waktu($zon);
 
-    // get weekly waktu
-    $waktu->getWeekly();
+// get today waktu
+$waktu->getToday();
 
-    // get whole current month waktu
-    $waktu->getMonthly();
+// get weekly waktu
+$waktu->getWeekly();
 
-    // get whole month waktu on October 2013
-    $waktu->getMonthly(10, 2013);
+// get current month waktu
+$waktu->getMonthly();
+
+// get monthly waktu on October 2013
+$waktu->getMonthly(10, 2013);
+```
 
 ## Todo
 * Add more tests
