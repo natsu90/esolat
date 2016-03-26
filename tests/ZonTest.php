@@ -9,6 +9,10 @@ class ZonTest extends \PHPUnit_Framework_TestCase {
 	public function testZon()
 	{
 		var_dump(Zon::getAllNegeri());
-		var_dump(Zon::getAllZon());
+		$zones = Zon::getAllZon();
+		//var_dump(Zon::getZon('Brunei'));
+		$zon = new Zon('sgr01');
+		var_dump($zon->getDescription());
+		var_dump($zon->getNegeri());
 	}
 }
