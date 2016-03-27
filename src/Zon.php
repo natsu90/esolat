@@ -102,7 +102,7 @@ class Zon {
 		$arr_data = json_decode('['.str_replace('\'', '"', trim(str_replace(array('<script type="text/javascript">', "\n", 'window.parent.handleResponse', '(', ')', ';', '</script>'), '', $js_script))).']', true);
 		
 		if(!$arr_data[0])
-			throw new Exception($negeri_string .' negeri not recognized');
+			throw new NegeriNotFoundException;
 
 		$codes = explode('=', $arr_data[0]);
 		$places = explode('=', $arr_data[1]);
